@@ -1,10 +1,10 @@
 import "./App.css";
-import CartView from "./features/CartView";
+import CounterView from "./features/CounterView";
 
 function App() {
   return (
     <div>
-      <CartView />
+      <CounterView />
     </div>
   );
 }
