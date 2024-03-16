@@ -5,9 +5,14 @@
   width: 80px;
   height: 80px;
   background-color: black;
-  margin-right: 10px;
+  /* margin-right: 10px; */
 }
+
 .show-items img {
   width: 30px;
   height: 30px;
+}
+
+.modal-backdrop.show {
+  opacity: 0;
 }
